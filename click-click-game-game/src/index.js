@@ -11,6 +11,13 @@ ReactDOM.render(
         <Clicker />
         <Clicker />
         <Clicker />
+        <Clicker />
+        <Clicker />
+        <Clicker />
+        <Clicker />
+        <Clicker />
+        <Clicker />
+        <Clicker />
     </div>
     , document.getElementById('root'));
 // registerServiceWorker();
