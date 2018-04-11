@@ -6,7 +6,13 @@ import Clicker from './Clicker';
 // import registerServiceWorker from './registerServiceWorker';
 import 'tachyons';
 
-ReactDOM.render(<Clicker />, document.getElementById('root'));
+ReactDOM.render(
+    <div>
+        <Clicker />
+        <Clicker />
+        <Clicker />
+    </div>
+    , document.getElementById('root'));
 // registerServiceWorker();
 
 
