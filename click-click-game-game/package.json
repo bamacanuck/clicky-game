@@ -2,7 +2,7 @@
   "name": "click-click-game-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bamacanuck.github.io/clicky-game/click-click-game-game",
+  "homepage": "https://bamacanuck.github.io/clicky-game/tree/master/click-click-game-game",
   "dependencies": {
     "react": "^16.3.1",
     "react-dom": "^16.3.1",

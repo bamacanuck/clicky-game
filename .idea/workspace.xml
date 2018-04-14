@@ -88,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/click-click-game-game/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
+              <caret line="4" column="89" selection-start-line="4" selection-start-column="89" selection-end-line="4" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -230,7 +230,7 @@
       <workItem from="1523473371218" duration="5764000" />
       <workItem from="1523571965147" duration="588000" />
       <workItem from="1523634378304" duration="2317000" />
-      <workItem from="1523669242342" duration="1620000" />
+      <workItem from="1523669242342" duration="1804000" />
     </task>
     <task id="LOCAL-00001" summary="added ourClickers.js">
       <created>1523477725628</created>
@@ -250,7 +250,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10289000" />
+    <option name="totallyTimeSpent" value="10473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
@@ -476,7 +476,7 @@
     <entry file="file://$PROJECT_DIR$/click-click-game-game/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
+          <caret line="4" column="89" selection-start-line="4" selection-start-column="89" selection-end-line="4" selection-end-column="89" />
         </state>
       </provider>
     </entry>
