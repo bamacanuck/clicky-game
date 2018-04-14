@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9600df0-e71a-4cc7-a649-e69cdea0bb9c" name="Default" comment="" />
+    <list default="true" id="f9600df0-e71a-4cc7-a649-e69cdea0bb9c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/click-click-game-game/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/click-click-game-game/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -61,8 +63,8 @@
         <entry file="file://$PROJECT_DIR$/click-click-game-game/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="22">
-                <caret line="2123" column="45" lean-forward="true" selection-start-line="2123" selection-start-column="45" selection-end-line="2123" selection-end-column="45" />
+              <first_editor relative-caret-position="286">
+                <caret line="2135" column="50" lean-forward="true" selection-start-line="2135" selection-start-column="50" selection-end-line="2135" selection-end-column="50" />
                 <folding>
                   <element signature="e#0#41#0" expanded="true" />
                   <element signature="e#0#41#0" expanded="true" />
@@ -86,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/click-click-game-game/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+              <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -228,7 +230,7 @@
       <workItem from="1523473371218" duration="5764000" />
       <workItem from="1523571965147" duration="588000" />
       <workItem from="1523634378304" duration="2317000" />
-      <workItem from="1523669242342" duration="1556000" />
+      <workItem from="1523669242342" duration="1620000" />
     </task>
     <task id="LOCAL-00001" summary="added ourClickers.js">
       <created>1523477725628</created>
@@ -248,7 +250,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10225000" />
+    <option name="totallyTimeSpent" value="10289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
@@ -451,8 +453,8 @@
     <entry file="file://$PROJECT_DIR$/click-click-game-game/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="22">
-            <caret line="2123" column="45" lean-forward="true" selection-start-line="2123" selection-start-column="45" selection-end-line="2123" selection-end-column="45" />
+          <first_editor relative-caret-position="286">
+            <caret line="2135" column="50" lean-forward="true" selection-start-line="2135" selection-start-column="50" selection-end-line="2135" selection-end-column="50" />
             <folding>
               <element signature="e#0#41#0" expanded="true" />
               <element signature="e#0#41#0" expanded="true" />
@@ -474,7 +476,7 @@
     <entry file="file://$PROJECT_DIR$/click-click-game-game/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
         </state>
       </provider>
     </entry>
