@@ -1,12 +1,13 @@
 import React from 'react';
 
-const Clicker = () => {
-    return <div className={'bg-light-blue dib pa3 ma2 tc grow'}>
-                <img alt="images" src="https://robohash.org/srscott"/>
-                <div>
-                    <h3>SR Scott Bot</h3>
-                </div>
-            </div>
+const Clicker = (props) => {
+    return <div className="bg-light-blue dib br3 pa3 ma2 grow bw2 shadow-5 tc">
+        <img alt="visual" src={`https://robohash.org/ReactJS${props.id}?set=set4&size=340x340`} />
+                {/*<div>*/}
+                    {/*<h3> {props.name} </h3>*/}
+                    {/*<p> {props.id} </p>*/}
+                {/*</div>*/}
+            </div>;
 };
 
 export default Clicker;

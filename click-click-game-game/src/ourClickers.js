@@ -1,28 +1,36 @@
-const OurClickers = [
+export const OurClickers = [
     {
         id: 1,
-        name: "Bill"
+        name: "Jenna"
     },
     {
         id: 2,
-        name: "Bill"
+        name: "Andy"
     },
     {
         id: 3,
-        name: "Bill"
+        name: "John"
     },
     {
         id: 4,
-        name: "Bill"
+        name: "Kishon"
     },
     {
         id: 5,
-        name: "Bill"
+        name: "Shane"
     },
     {
         id: 6,
-        name: "Bill"
+        name: "Bahnoo"
     }
+    // {
+    //     id: 7,
+    //     name: "Candace"
+    // }
+    // {
+    //     id: 8,
+    //     name: "Jalil"
+    // }
 ];
 
-export default OurClickers;
+// export default OurClickers;
