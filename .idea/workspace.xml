@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9600df0-e71a-4cc7-a649-e69cdea0bb9c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/click-click-game-game/src/Clicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/click-click-game-game/src/Clicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/click-click-game-game/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/click-click-game-game/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/click-click-game-game/src/ourClickers.js" beforeDir="false" afterPath="$PROJECT_DIR$/click-click-game-game/src/ourClickers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/click-click-game-game/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/click-click-game-game/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,11 +50,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Clicker.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Clicker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/click-click-game-game/src/Clicker.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/click-click-game-game/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="390">
+                <caret line="2133" lean-forward="true" selection-start-line="2133" selection-end-line="2133" />
+                <folding>
+                  <element signature="e#0#41#0" expanded="true" />
+                  <element signature="e#0#41#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#42#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#35#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#28#0" expanded="true" />
+                  <element signature="e#0#28#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/click-click-game-game/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -74,6 +105,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>&quot;Bill&quot;</find>
+      <find>pages</find>
+      <find>github pages</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,6 +123,7 @@
         <option value="$PROJECT_DIR$/click-click-game-game/src/index.js" />
         <option value="$PROJECT_DIR$/click-click-game-game/src/OurClickers.js" />
         <option value="$PROJECT_DIR$/click-click-game-game/src/Clicker.js" />
+        <option value="$PROJECT_DIR$/click-click-game-game/package.json" />
       </list>
     </option>
   </component>
@@ -159,6 +193,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\srand\Desktop\clicky-game\clicky-game\click-click-game-game" />
       <recent name="C:\Users\srand\Desktop\clicky-game\clicky-game\click-click-game-game\src" />
     </key>
   </component>
@@ -195,7 +230,7 @@
       <workItem from="1523473371218" duration="5764000" />
       <workItem from="1523571965147" duration="588000" />
       <workItem from="1523634378304" duration="2317000" />
-      <workItem from="1523669242342" duration="615000" />
+      <workItem from="1523669242342" duration="1351000" />
     </task>
     <task id="LOCAL-00001" summary="added ourClickers.js">
       <created>1523477725628</created>
@@ -215,13 +250,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9284000" />
+    <option name="totallyTimeSpent" value="10020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24277908" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24277908" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3294893" />
@@ -412,6 +447,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click-click-game-game/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="390">
+            <caret line="2133" lean-forward="true" selection-start-line="2133" selection-end-line="2133" />
+            <folding>
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#42#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#35#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#28#0" expanded="true" />
+              <element signature="e#0#28#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click-click-game-game/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
