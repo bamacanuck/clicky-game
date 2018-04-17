@@ -1,18 +1,16 @@
 import React from 'react';
 import Clicker from './Clicker';
-import {OurClickers} from "./OurClickers";
+// import {OurClickers} from "./OurClickers";
 
-const ClickerList = () => {
+const ClickerList = ({ OurClickers }) => {
+    const clickersArray = OurClickers.map((kitty, i) => {
+        return <Clicker key={i} id={OurClickers[i].id}/>
+    });
     return (
         <div>
-            <Clicker id={OurClickers[0].id}/>
-            <Clicker id={OurClickers[1].id}/>
-            <Clicker id={OurClickers[2].id}/>
-            <Clicker id={OurClickers[3].id}/>
-            <Clicker id={OurClickers[4].id}/>
-            <Clicker id={OurClickers[5].id}/>
+            { clickersArray }
         </div>
     );
-}
+};
 
 export default ClickerList;
