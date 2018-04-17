@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9600df0-e71a-4cc7-a649-e69cdea0bb9c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/click-click-game-game/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/click-click-game-game/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/click-click-game-game/src/ClickerList.js" beforeDir="false" afterPath="$PROJECT_DIR$/click-click-game-game/src/ClickerList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/click-click-game-game/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/click-click-game-game/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,8 +44,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/click-click-game-game/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="198">
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -225,7 +222,7 @@
       <workItem from="1523669242342" duration="1804000" />
       <workItem from="1523672938504" duration="2628000" />
       <workItem from="1523989269462" duration="5913000" />
-      <workItem from="1524000535154" duration="1667000" />
+      <workItem from="1524000535154" duration="1983000" />
     </task>
     <task id="LOCAL-00001" summary="added ourClickers.js">
       <created>1523477725628</created>
@@ -245,7 +242,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20681000" />
+    <option name="totallyTimeSpent" value="20997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
@@ -567,13 +564,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/click-click-game-game/src/Gameplay.js" />
-    <entry file="file://$PROJECT_DIR$/click-click-game-game/src/index.js">
+    <entry file="file://$PROJECT_DIR$/click-click-game-game/src/ClickerList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-            <element signature="e#163#187#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -592,20 +588,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/click-click-game-game/src/ClickerList.js">
+    <entry file="file://$PROJECT_DIR$/click-click-game-game/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="220">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#163#187#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/click-click-game-game/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="198">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>

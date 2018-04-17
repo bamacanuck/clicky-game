@@ -5,7 +5,10 @@ import {OurClickers} from "./OurClickers";
 const App = () => {
         return (
             <div>
-                <h1 className="tc"> Kitty Click !!!</h1>
+                <div>
+                    <h1 className="tc"> Kitty Click !!!</h1>
+                    <h1 className="tc"> your score: </h1>
+                </div>
                 <ClickerList OurClickers = {OurClickers} />
             </div>
         );
