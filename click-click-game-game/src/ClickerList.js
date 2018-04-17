@@ -13,4 +13,18 @@ const ClickerList = ({ OurClickers }) => {
     );
 };
 
+// alternatively...
+//
+// const ClickerList = ({ OurClickers }) => {
+//     return (
+//         <div>
+//             {
+//                 OurClickers.map((kitty, i) => {
+//                     return <Clicker key={OurClickers[i].id} id={OurClickers[i].id}/>
+//                 })
+//             }
+//         </div>
+//     );
+// };
+
 export default ClickerList;
