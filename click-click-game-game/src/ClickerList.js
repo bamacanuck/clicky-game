@@ -4,7 +4,7 @@ import Clicker from './Clicker';
 
 const ClickerList = ({ OurClickers }) => {
     const clickersArray = OurClickers.map((kitty, i) => {
-        return <Clicker key={i} id={OurClickers[i].id}/>
+        return <Clicker key={OurClickers[i].id} id={OurClickers[i].id}/>
     });
     return (
         <div>
